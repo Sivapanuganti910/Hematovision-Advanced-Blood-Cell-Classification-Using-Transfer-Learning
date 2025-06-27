@@ -7,6 +7,7 @@ HematoVision is an advanced AI-driven project focused on classifying blood cells
 🧫 Lymphocytes
 🧬 Monocytes
 🧠 Neutrophils
+📊 Robust Evaluation Metrics
 
 🤖 Model Base: Pre-trained Convolutional Neural Networks (CNNs) (e.g., ResNet, VGG)
 
